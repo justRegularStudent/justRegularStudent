@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @justRegularStudent
+- ⏳ Currently im a Student
 - 👀 I’m interested in Backend programming
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me... maarvin#5894
+- 🌱 I’m currently learning Java and Frontend development
+- 📫 How to reach me... _marvinn
